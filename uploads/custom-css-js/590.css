@@ -1,0 +1,221 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.stripe-error {
+    margin: 0 !important;
+    color: red;
+    font-weight: bold;
+    padding: 10px 0;
+}
+.payment-fields::-webkit-inner-spin-button,
+.payment-fields::-webkit-outer-spin-button
+ {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.stripe-payment-btn {
+    background: #00BDFF !important;
+    width: 200px;
+    border-radius: 16px !important;
+    color: #FFFFFF !important;
+    font-size: 20px !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    line-height: 30px !important;
+}
+p.payment-sucess {
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    background: #ffffff;
+    padding: 20px;
+}
+.disclamair-section p {
+    padding: 24px 0;
+    margin: 0 !important;
+    color: #94959B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; 
+}
+.fields-groups {
+    display: flex;
+    gap: 8px;
+	width: 480px;
+	margin-top: 16px;
+}
+
+.cards-expiry-section, .card-cvv-section {
+    width: 250px;
+    height: 64px;
+    border-radius: 8px;
+    border: 1px solid #EAEAEA;
+    background: rgba(234, 234, 234, 0.60);
+    display: flex;
+   gap: 8px;
+}
+.payment-fields {
+    border: none !important;
+    background: transparent !important;
+	width: 80%;
+}
+.payment-fields.stripe-card-number-field {
+    width: 460px;
+    height: 64px;
+	    background: rgba(234, 234, 234, 0.60) !important;
+    border-radius: 8px;
+    border: 1px solid #EAEAEA !important;
+}
+.card-number-field {
+    width: 480px;
+    height: 64px;
+    display: flex;
+    border-radius: 8px;
+    border: 1px solid #EAEAEA;
+    background: rgba(234, 234, 234, 0.60);
+}
+
+.fields-images {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+.title-img-row {
+    display: flex;
+    justify-content: space-between;
+	padding-bottom: 24px;
+}
+
+.title-col {
+    display: flex;
+    gap: 8px;
+	align-items: center;
+}
+
+.payemnt-card-title {
+    margin: 0 !important;
+	    color: #1B3842;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+.top-row-payment-method {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 24px;
+}
+.buy-credits-main-row {
+    max-width: 712px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.buy-credit-top-row {
+    text-align: center;
+}
+
+.balance-heading {
+    font-size: 48px !important;
+    line-height: 30px !important;
+    color: #1B3842;
+    font-weight: 600;
+}
+
+.credit-expiry {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #94959B;
+	margin-bottom: 64px !important;
+}
+.buy-more-credits-row {
+    border-radius: 16px;
+    border: 1px solid var(--text-line, #EAEAEA);
+    background: var(--body-white, #FFF);
+    box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.04), 0px 2px 6px 0px rgba(0, 0, 0, 0.04), 0px 10px 20px 0px rgba(0, 0, 0, 0.04);
+    padding: 24px 154px 24px 24px;
+	width: 712px;
+    height: 203px;
+}
+.buy-credit-field:focus, .buy-credit-field:focus-visible {
+    background: #EAEAEA;
+    outline: none;
+}
+.credit-row-heading {
+    color: #1B3842 !important;
+    font-size: 20px !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+	margin-bottom: 16px !important;
+}
+
+.buy-credit-field {
+width: 524px !important;
+    height: 51px;
+    border-radius: 12px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #1B3842;
+    background: #EAEAEA;
+    opacity: 0.5;
+}
+
+
+.top-last-row {
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+	max-width: 524px;
+}
+
+.selected-price {
+    margin: 0 !important;
+    color: #1B3842 !important;
+    font-size: 42px !importan;
+    font-style: normal;
+    font-weight: 600 !important;
+    line-height: 36px !important;
+}
+
+.detail-section-text {
+    margin: 0 !important;
+    color: #1B3842;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; 
+}
+
+.tip-text {
+    margin: 0 !important;
+    color: #1B3842;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+}
+.payment-gateway-heading {
+    margin: 0 !important;
+    padding: 32px 0;
+    color: #17212B !important;
+    font-size: 28px !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    line-height: 32px !important; 
+}
+
+	
+
+
+
+
+
+
+	
+</style>
+<!-- end Simple Custom CSS and JS -->

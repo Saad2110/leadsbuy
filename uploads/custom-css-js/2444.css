@@ -1,0 +1,78 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@media only screen and (min-width: 1240px) and (max-width: 1299px){
+	
+	.simplify-heading h2.elementor-heading-title.elementor-size-default {
+    font-size: 48px !important;
+    line-height: 50px !important;
+}
+	.custom-tpara .elementor-widget-container {
+    font-size: 17px !important;
+    line-height: 20px !important;
+}
+	.custom-button span.elementor-button-text {
+    font-size: 12px !important;
+}
+	
+	.trust-heading h2.elementor-heading-title.elementor-size-default {
+    font-size: 30px !important;
+    line-height: 35px !important;
+}
+	.custom-counter .elementor-counter-number-wrapper {
+    font-size: 30px !important;
+    line-height: 30px !important;
+    margin-top: 46px !important;
+    margin-left: 35px !important;
+}
+	.trust-para .elementor-widget-container {
+    font-size: 16px !important;
+    line-height: 20px !important;
+}
+	.custom-cout .elementor-counter-title {
+    font-size: 14px !important;
+    line-height: 16px !important;
+}
+	.custom-cout .elementor-counter-number-wrapper {
+    font-size: 30px !important;
+    line-height: 30px !important;
+}
+	
+	
+	.start .elementor-star-rating {
+    font-size: 12px !important;
+    margin-left: -13px !important;
+}
+	
+	.rating span.elementor-counter-number {
+    font-size: 30px !important;
+    line-height: 30px !important;
+/*     margin-left: -47px !important; */
+}
+	
+	.rating-text .elementor-widget-container {
+    font-size: 15px !important;
+    margin-left: -12px !important;
+}
+	.custom-testti h2.elementor-heading-title.elementor-size-default {
+    font-size: 12px !important;
+}
+	
+	
+	.custom-testti .elementor-widget-wrap.elementor-element-populated {
+    padding: 37px !important;
+}
+	
+	.leads a.elementor-button.elementor-button-link.elementor-size-sm {
+    font-size: 16px !important;
+}
+	.font-better h2.elementor-heading-title.elementor-size-default {
+    font-size: 35px !important;
+    line-height: 40px !important;
+}
+	.cust-img img.attachment-full.size-full.wp-image-293 {
+    width: 46% !important;
+}
+	
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

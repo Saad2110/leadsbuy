@@ -1,0 +1,146 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@media only screen and (max-width: 1240px) and (min-width: 1080px)
+	
+{
+	.first-section h2.elementor-heading-title.elementor-size-default {
+    font-size: 60px !important;
+    line-height: 60px !important;
+letter-spacing: 0.5px !important;
+}
+	
+.custom-tpara .elementor-widget-container {
+    font-size: 19px !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+	
+	.custom-button .elementor-widget-container {
+    padding-top: 20px!important;
+}
+	
+	.custom-button span.elementor-button-text {
+    font-size: 16px !important;
+}
+	.two-sec h2.elementor-heading-title.elementor-size-default {
+    font-size: 20px !important;
+	line-height: 25px !important;
+}
+	.font-better h2.elementor-heading-title.elementor-size-default {
+    font-size: 40px !important;
+    line-height: 40px !important;
+}
+	.lorem-para .elementor-widget-container {
+    text-align: center;
+    font-size: 23px !important;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+    line-height: 32px !important;
+}
+	.Feature-section {
+    margin: -11px !important;
+    padding: 80px !important;
+}
+	.custom-slider section.elementor-section.elementor-top-section.elementor-element
+	.elementor-element-a3211d7.elementor-section-boxed.elementor-section-height-default
+	.elementor-section-height-default
+	{
+    padding-top: 0px !important;
+}
+	.trust-heading h2.elementor-heading-title.elementor-size-default {
+    font-size: 32px !important;
+    line-height: 40px !important;
+}
+	.custom-counter .elementor-counter-number-wrapper {
+    font-size: 32px !important;
+    line-height: 32px !important;
+    margin-top: 38px !important;
+    margin-right: 38px !important;
+}
+	.trust-para .elementor-widget-container {
+    font-size: 16px !important;
+    line-height: 22px !important;
+    margin-top: -23px !important;
+}
+	.custom-cout .elementor-counter-number-wrapper {
+    font-size: 24px !important;
+}
+	.custom-cout .elementor-counter-title {
+    font-size: 16px !important;
+	line-height: 22px !important;
+}
+	
+	.rating span.elementor-counter-number {
+    font-size: 24px !important;
+    margin-right: -54px;
+}
+	.our-customer h2.elementor-heading-title.elementor-size-default {
+    font-size: 32px !important;
+    line-height: 40px !important;
+}
+	.custom-testti h2.elementor-heading-title.elementor-size-default {
+    font-size: 13px !important;
+    line-height: 23px !important;
+}
+	
+	.cust-img img.attachment-full.size-full.wp-image-293 {
+    width: 29% !important;
+    margin-left: -39px;
+}
+	.col-lst-two img.attachment-full.size-full.wp-image-47 {
+    width: 140% !important;
+}
+	
+	.col-lst-two {
+    width: 20% !important;
+}
+	.col-lst {
+    width: 30% !important;
+}
+	.leads .elementor-widget-container {
+    padding: 0px !important;
+}
+	
+.leads .elementor-widget-container {
+    padding: 0px !important;
+}
+.footer-text span.elementor-icon-list-text {
+    font-size: 17px !important;
+    margin-left: 20px !important;
+}
+	.footer-list span.elementor-icon-list-text {
+    font-size: 17px !important;
+}
+	
+	
+	.login-button span.elementor-button-text {
+    font-size: 10px !important;
+    line-height: 10px !important;
+}
+	
+	.header-btn span.elementor-button-text {
+    font-size: 10px !important;
+    line-height: 10px !important;
+}
+	.header-menu .header-credits {
+    text-align: right;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    font-family: 'mazzard h';
+    color: #1B3842 !important;
+}
+	.btn-log a.elementor-button.elementor-button-link.elementor-size-sm {
+    margin-left: 15px;
+}
+	.header-main.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+}
+	.btn-log {
+    width: 26% !important;
+}
+	
+	
+}
+	</style>
+<!-- end Simple Custom CSS and JS -->

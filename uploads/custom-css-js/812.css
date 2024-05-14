@@ -1,0 +1,44 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@media only screen and (max-width: 450px) and (min-width: 375px)
+{
+
+.trust-heading h2.elementor-heading-title.elementor-size-default {
+    text-align: left;
+    margin-left: 53px !important;
+}
+	
+	.custom-counter span.elementor-counter-number {
+    margin-left: -48px !important;
+}
+	.custom-cout span.elementor-counter-number {
+    margin-left: -177px !important;
+}
+	.rating span.elementor-counter-number {
+    margin-left: -76px !important;
+}
+	.custom-slider button.flipster__button.flipster__button--prev {
+    margin-left: 0px;
+    margin-top: 20px !important;
+}
+	.custom-slider button.flipster__button.flipster__button--next {
+    margin-right: 0;
+}
+	.custom-slider button.flipster__button.flipster__button--next {
+    margin-top: 20px !important;
+}
+	
+	.header-btn .elementor-button-wrapper {
+    margin-right: -45px !important;
+}
+	
+	.cust-img img.attachment-full.size-full.wp-image-293 {
+    width: 36% !important;
+}
+	.custom-slider button.flipster__button.flipster__button--next {
+    position: absolute;
+    left: 36% !important;
+    top: 96% !important;
+}
+	}</style>
+<!-- end Simple Custom CSS and JS -->

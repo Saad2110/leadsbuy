@@ -1,0 +1,230 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.error-message {
+    margin: 0 !important;
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+.credits-details {
+    margin: 2px 0 0 0 !important;
+    color: #1B3842;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+}
+.completion-image {
+    width: 300px;
+    height: 265px;
+}
+.btn-row {
+    display: flex;
+    justify-content: center;
+}
+.step-3 .buy-leads-fields-section {
+    text-align: center;
+}
+
+.purchased- {
+    margin: 0 !important;
+    padding: 64px 0;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #000000;
+}
+
+a.after-lead-purchase-btn {
+    display: block;
+    width: 260px;
+    padding: 24px 40px;
+    background: #00BDFF;
+    border-radius: 16px;
+    color: #ffffff;
+    text-decoration: none !important;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}  
+#leads-credits {
+            -moz-appearance: textfield; /* Firefox */
+            appearance: textfield; /* Other browsers */
+        }
+
+        /* Target WebKit-based browsers (Chrome, Safari) */
+        #leads-credits::-webkit-inner-spin-button,
+        #leads-credits::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+#leads-credits {
+    width: 150px;
+    height: 51px;
+    color: #1B3842;
+    border-radius: 12px;
+    border: 1px solid  #EAEAEA;
+    opacity: 0.6;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    background: #ffffff;
+}
+.container-step-form {
+  max-width: 1100px;
+    margin: 0 auto;
+    padding: 64px;
+    border-radius: 20px;
+    box-shadow: 0 4px 80px 0 rgba(0, 0, 0, 0.15);
+}
+.back-btn-design:focus, .back-btn-design:hover {
+    background: rgb(130 131 137 / 60%);
+    color: #ffffff;
+}
+.back-arrow {
+    margin-right: 16px;
+}
+.next-step:focus, .next-step:hover, .end-step:focus, .end-step:hover {
+    background: #00b1ef !important;
+}
+.buy-leads-fields-row {
+    padding-bottom: 36px;
+}
+.buy-leads-fields, .buy-leads-fields:focus, .buy-leads-fields:focus-visible {
+    width: 542px;
+    height: 51px;
+    background: #EAEAEA;
+    opacity: 0.5;
+    border-radius: 12px;
+    color: #1B3842;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+	outline: none;
+}
+.buy-leads-fields-row label {
+   display: block;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #1B3842;
+    padding-bottom: 9px;
+}
+
+.buy-leads-fields-section {
+    padding: 64px 0;
+}
+.next-step, .end-step {
+    background: #00BDFF;
+    width: 162px;
+    height: 62px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.next-arrow {
+    margin-left: 16px;
+}
+.button-groups {
+    display: flex;
+    justify-content: space-between;
+}
+
+.back-btn-design {
+    background: rgba(148, 149, 155, 0.6);
+    width: 162px;
+    height: 62px;
+    border-radius: 16px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+	color: #ffffff;
+}
+.form-top-heading {
+    font-size: 36px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #1B3842;
+	padding-bottom: 40px;
+}
+
+.progress-bar-container {
+    background-color: #f1f1f1;
+    height: 8px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    background-color: #00BDFF;
+    height: 100%;
+    width: 0;
+    border-radius: 5px;
+}
+
+.step {
+    display: none;
+}
+
+.step h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.step button {
+    margin-top: 10px;
+}
+
+.step-1 {
+    display: block;
+}
+
+@media only screen and (max-width:768px)
+{
+.buy-leads-fields {
+    width: 100% !important;
+    height: 51px;
+    background: #EAEAEA;
+    opacity: 0.5;
+    border-radius: 12px;
+    color: #1B3842;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    outline: none;
+}
+
+	
+	
+	
+	
+	
+	.form-top-heading {
+    font-size: 21px !important;
+}
+.buy-leads-fields-section {
+    padding: 34px 0 !important;
+}
+.buy-leads-fields-row label {
+    font-size: 17px !important;
+}
+	.step button {
+    margin-top: 0px !important;
+}
+	.back-btn-design {
+    height: 49px !important;
+    font-size: 18px !important;
+}
+	.next-step {
+		 height: 49px !important;
+    font-size: 18px !important;
+}
+	.container-step-form {
+    padding: 40px !important;
+}
+	
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

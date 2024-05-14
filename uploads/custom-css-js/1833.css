@@ -1,0 +1,101 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.main-header-side-row {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    align-items: center;
+}
+ul.header-hidden-menu-ul li {text-decoration: none;list-style: none;border-bottom: 1px solid #EAEAEA;padding: 8px 0;}
+
+.header-dropdown-area.fitler-main {
+    padding: 32px 24px;
+    width: 217px !important;
+}
+
+ul.header-hidden-menu-ul {
+    margin: 0;
+}
+
+.header-menu-link {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #1B3842;
+}
+.user-login-link a {
+    padding: 24px 32px;
+    border-radius: 16px;
+    background: #00BDFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    color: #ffffff;
+}
+.menu-icon-header {
+    position: absolute;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+}
+.main-header-container-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.user-regist-link a {
+    padding: 24px 32px;
+    border-radius: 16px;
+    background: transparent;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    color: #00BDFF;
+    border: 2px solid #00BDFF;
+}
+ul.header-hidden-menu-ul li:last-child {
+    border-bottom: 0;
+}
+img.dropdown-icon-header {
+    cursor: pointer;
+}
+.user-credits p {
+    margin: 0 !important;
+    color: #94959B;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+}
+span.credit-text-header {
+    margin-left: 5px;
+}
+.buy-credits-link a, .my-leads-link a {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    color: #00BDFF;
+}
+
+img.header-top-image {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+
+.menu-icon-header {
+    position: absolute;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+    padding: 24px !important;
+}
+.menu-icon-header .elementor-container.elementor-column-gap-default {
+    max-width: 1320px;
+}</style>
+<!-- end Simple Custom CSS and JS -->

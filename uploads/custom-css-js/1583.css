@@ -1,0 +1,220 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.page-id-1578{
+	background: #EBF5FF !important;
+}
+p.lead-status-sold {
+    background-color: #FF4F60;
+    width: 73% !important;
+    border-radius: 20px !important;
+    font-size: 15px !important;
+    line-height: 33px !important;
+    text-align: center;
+    vertical-align: middle !important;
+    color: white !important;
+    margin-top: 18px !important;
+}
+.table-data-row {
+    cursor: pointer;
+}
+
+.table-data-row:hover {
+    background: rgba(0, 189, 255, 0.20);
+}
+.lead-status-call {
+    background-color: #7B61FF;
+    width: 73% !important;
+    border-radius: 20px !important;
+    font-size: 15px !important;
+    line-height: 33px !important;
+    text-align: center;
+    vertical-align: middle !important;
+    color: white !important;
+    margin-top: 18px !important;
+}
+td.no-record-cell {
+    padding: 10px 0 20px 20px !important;
+    color: #000000;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.buttons-section {
+    display: flex;
+    justify-content: space-between;
+}
+.cancel-button:hover, .cancel-button:focus {
+    background: rgb(148 149 155);
+}
+
+.apply-filter-button:hover, .apply-filter-button:focus {
+    background: #0cb4ee !important;
+}
+.button-design {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    color: #ffffff;
+    padding: 5px 25px;
+}
+
+.cancel-button {
+    border-radius: 8px;
+    background: rgba(148, 149, 155, 0.80);
+}
+
+.apply-filter-button {
+    border-radius: 8px !important;
+    background: #00BDFF !important;
+}
+.filter-title {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    color: #000000;
+    text-align: center;
+}
+.radio-btn-row {
+    margin: 16px 0;
+}
+.field-row label {
+    display: block;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22.4px;
+    color: #1B3842;
+    padding-bottom: 8px;
+}
+.status-radio-buttons label {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #1B3842;
+    padding-right: 16px;
+}
+
+.field-row {
+    margin: 16px 0;
+}
+.status-para {
+    margin-bottom: 13px !important;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22.4px;
+    color: #1B3842;
+}
+.filter-lead-category, .filter-lead-department {
+    background-color: #EAEAEA;
+    border-radius: 12px;
+    width: 100%;
+    opacity: 0.5;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #1B3842;
+     /* Remove default browser styles */
+}
+
+select.filter-lead-category:after {
+     /* Unicode code for down arrow character */
+}
+.fitler-main {
+    position: absolute;
+    padding: 16px;
+    width: 332px;
+    box-shadow: 0px 2px 40px 0px #0000001A;
+    right: 0;
+    top: 55px;
+    z-index: 9999999;
+    background: #ffffff;
+    border-radius: 16px;
+}
+.fitler-main {
+    display: none;
+}
+.sorting-icon {
+  
+    position: relative;
+    background: #ffffff;
+    padding: 8px 14px;
+    border-radius: 12px;
+    border: 1px solid #EAEAEA;
+}
+.fitler-search {
+    cursor: pointer;
+}
+.search-field-my-leads {
+    display: flex;
+    align-items: center;
+    border: 1px solid #EAEAEA;
+    border-radius: 12px;
+    overflow: hidden;
+    width: 524px;
+    height: 51px;
+	padding-right: 10px;
+	background: #ffffff;
+}
+.leads-data-table, .leads-data-table td, .leads-data-table th {
+    border: 0;
+}
+.leads-data-table th {
+    background: #FFF;
+    text-align: left;
+}
+
+.leads-data-table tbody tr {
+    border-bottom: 1px solid #EAEAEA;
+    background: #F6F6F6;
+}
+.my-lead-page-top-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	    margin-bottom: 30px;
+}
+
+.sorting-column {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.my-lead-page-heading h2 {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    color: #1B3842;
+}
+
+.my-lead-page-heading sub {
+    color: #94959B;
+	font-size: 32px;
+    font-weight: 600;
+    line-height: 30px;
+}
+input.search-my-leads {
+   border: 0;
+    width: 524px;
+    background: #ffffff;
+    height: 51px;
+}
+.search-field-my-leads .search-my-leads, .search-my-leads::placeholder {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #1B3842;
+}
+input.search-my-leads:focus {
+    outline: none !important;
+}
+.search-field-my-leads .fa-search {
+    cursor: pointer;
+}</style>
+<!-- end Simple Custom CSS and JS -->

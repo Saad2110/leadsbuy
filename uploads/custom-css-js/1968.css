@@ -1,0 +1,90 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+input.user-sign-in-button {
+    width: 524px;
+    height: 62px;
+    background: #00BDFF;
+    border-radius: 16px;
+	    max-width: 100%;
+}
+input.user-sign-in-button:hover, input.user-sign-in-button:focus {
+    background: #02b5f3;
+}
+p.error-message-section {
+    color: red;
+    text-align: center;
+}
+.sign-in-main-container {
+    background: #ffffff;
+    padding: 32px;
+    border-radius: 12px;
+    width: 588px;
+    height: 407px;
+	margin: 0 auto;
+}
+.signin-form-row label {
+    font-size: 20px !important;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px !important;
+    color: #1B3842;
+}
+.signin-form-row .input {
+    width: 524px;
+    height: 50px;
+    background: #EAEAEA;
+    opacity: 0.5;
+    border-radius: 12px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #1B3842;
+	margin-top: 10px;
+	padding: 11px 28px;
+}
+.signin-form-row p {
+    margin-bottom: 12px !important;
+}
+.login-remember label {
+    color: rgba(29, 38, 58, 0.80) !important;
+    font-size: 15px !important;
+    font-weight: 400 !important;
+    line-height: 28px !important;
+	display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.login-submit #wp-submit {
+    background: #00BDFF;
+    width: 524px;
+    height: 62px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    color: #ffffff;
+}
+.forget-pass-area {
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #1B3842;
+}
+
+.reset-pass-link {
+    color: #00BDFF !important;
+    padding-left: 5px;
+}
+.reset-pass-link:hover {
+    color: #00b1ef !important;
+}
+.signin-form-row .input:focus{
+	background : #EAEAEA;
+	border : 1px solid transparent !important;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

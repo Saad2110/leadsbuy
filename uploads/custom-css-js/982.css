@@ -1,0 +1,95 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@media only screen and (max-width: 1024px) and (min-width: 768px)
+{
+	.custom-counter span.elementor-counter-number {
+    margin-left: 45px;
+}
+.simplify-heading h2.elementor-heading-title.elementor-size-default {
+    font-size: 44px !important;
+    line-height: 50px !important;
+}
+
+	.custom-tpara .elementor-widget-container {
+    font-size: 15px !important;
+    line-height: 20px !important;
+}
+	.custom-button span.elementor-button-text {
+    font-size: 12px !important;
+    line-height: 24px !important;
+}
+	.custom-button a.elementor-button.elementor-button-link.elementor-size-sm {
+    padding: 12px !important;
+}
+	.font-better h2.elementor-heading-title.elementor-size-default {
+    font-size: 28px !important;
+    line-height: 37px !important;
+}
+	.lorem-para .elementor-widget-container {
+    font-size: 18px !important;
+    line-height: 26px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+	.custom-slider button.flipster__button.flipster__button--prev {
+    left: 40% !important;
+}
+	.trust-heading h2.elementor-heading-title.elementor-size-default {
+    font-size: 25px !important;
+    line-height: 30px !important;
+}
+	.custom-counter .elementor-counter-number-wrapper {
+    font-size: 25px !important;
+    margin-top: 39px !important;
+}
+	.trust-para .elementor-widget-container {
+    font-size: 12px !important;
+    line-height: 15px !important;
+    margin-top: -15px !important;
+}
+	.custom-cout .elementor-counter-number-wrapper {
+    font-size: 21px !important;
+}
+	.custom-cout .elementor-counter-title {
+    display: contents !important;
+    font-size: 9px !important;
+    line-height: 9px !important;
+}
+	.rating .elementor-counter-number-wrapper {
+    font-size: 21px !important;
+/*     margin-left: 70px !important; */
+}
+	.rating-text .elementor-widget-container {
+    font-size: 12px !important;
+}
+	.our-customer h2.elementor-heading-title.elementor-size-default {
+    font-size: 28px !important;
+    line-height: 28px !important;
+}
+	.custom-testti .elementor-widget-wrap.elementor-element-populated {
+    padding-top: 30px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+	.custom-testti h2.elementor-heading-title.elementor-size-default {
+    font-size: 10px !important;
+}
+	.custom-testti .swiper-slide {
+    padding: 0px !important;
+}
+	
+	.cust-img img.attachment-full.size-full.wp-image-293 {
+    width: 58% !important;
+    margin-left: -44px !important;
+    margin-top: 14px !important;
+}
+	
+/* 	.custom-slider button.flipster__button.flipster__button--prev {
+    position: absolute !important;
+    top: 96% !important;
+    left: 38% !important;
+} */
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

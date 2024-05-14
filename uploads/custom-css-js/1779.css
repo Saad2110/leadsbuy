@@ -1,0 +1,161 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body {
+    font-family: 'mazzard h';
+}
+.my-profile-main-container {
+       width: 880px;
+    background: #ffffff !important;
+    margin: 0 auto;
+	padding: 32px;
+	border-radius: 16px;
+}
+
+.page-id-1750 {
+    background: #EBF5FF;
+}
+
+.top-image-upload-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-column-profile {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.profile-image-text h3 {
+    margin: 0;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%; /* 31.2px */
+    text-transform: capitalize;
+    color: #1B3842;
+}
+
+.profile-image-text p {
+    margin: 0;
+    color: #94959B;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; /* 18.2px */
+    text-transform: capitalize;
+}
+
+img.user-profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    object-fit: cover;
+}
+.form-field-section.top-section-fields {
+    padding: 66px 0;
+}
+
+.form-field-section .field-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.user-profile-field {
+    border-radius: 12px !important;
+    background: #EAEAEA !important;
+    opacity: 0.8;
+    color: #1B3842 !important;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    height: 51px !important;
+}
+
+.field-column {
+	width: 100%;
+}
+
+.field-row .field-column .user-profile-field {
+    width: 100%;
+}
+.field-column label {
+  font-size: 20px !important;
+    line-height: 37px !important;
+    color: #1B3842 !important;
+    font-family: 'mazzard h';
+    padding: 3px !important;
+    font-weight: 600 !important;
+    display: block !important;
+}
+.one-column-field .user-profile-field {
+    width: 390px;
+    height: 51px;
+}
+.form-button-section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 940px;
+    padding: 32px;
+    margin: 0 auto;
+}
+.cancel-button-profile {
+    width: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: #94959B;
+    line-height: 30px;
+}
+.user-profile-update-button {
+    width: 220px !important;
+    border-radius: 16px !important;
+    background: #00BDFF !important;
+    font-size: 20px !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    line-height: 30px !important;
+}
+.user-profile-update-button:hover {
+    background: #00b1ef !important;
+}
+
+.cancel-button-profile:hover {
+    background: rgb(130 131 137 / 60%);
+}
+label.custom-button {
+      display: flex;
+    background-color: #94959B;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 12px;
+    padding: 12px 24px !important;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.image-upload-button #file-upload {
+    display: none;
+}
+.upload-photo-text {
+    margin: 0 !important;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%; /* 20.8px */
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.file-upload-image {
+    width: 24px;
+    height: 24px !important;
+    object-fit: cover;
+}</style>
+<!-- end Simple Custom CSS and JS -->

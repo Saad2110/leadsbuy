@@ -1,0 +1,26 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+p.remember-reset {
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1;
+    padding-top: 16px;
+    margin-bottom: 0;
+}
+
+p.no-margin {
+    margin-bottom: 16px;
+}
+
+input#somfrp_user_info {
+    margin-top: 0;
+}
+
+#lostpasswordform fieldset {
+    padding: 0 !important;
+}
+p.remember-reset a {
+    padding-left: 5px;
+}</style>
+<!-- end Simple Custom CSS and JS -->

@@ -1,0 +1,17 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@media only screen and (max-width: 500px) and (min-width: 451px)
+{
+.header-btn .elementor-widget-container {
+    margin-right: -41px !important;
+}
+	
+	
+	.custom-slider button.flipster__button.flipster__button--prev {
+    left: 18% !important;
+}
+.custom-slider button.flipster__button.flipster__button--next {
+    left: 48% !important;
+}
+}</style>
+<!-- end Simple Custom CSS and JS -->
